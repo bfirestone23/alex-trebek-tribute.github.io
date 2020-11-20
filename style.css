@@ -1,0 +1,42 @@
+#main {
+  font-family: 'Lato', sans-serif;
+  background-color: #292b39;
+  color: #ffffff;
+}
+
+#title {
+  text-align: center;
+  text-shadow: 2px 2px purple;
+  margin: auto;
+  padding: 15px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+  margin: 10px;
+}
+
+#tribute-info {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  background-color: #eeeeee;
+  color: #292b39;
+  line-height: 1.5;
+  border: 4px solid #bebebe;
+}
+
+a:hover {
+  font-weight: bold;
+}
